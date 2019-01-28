@@ -16,8 +16,8 @@ body {
 
 /* Use this class on your image to restrict the size so it stays completely within it's parent div */
 .restrict-img-size {
-	height: 25%;
-	width: 75%;
+	height: 35%;
+	width: 50%;
 }
 
 .col {
